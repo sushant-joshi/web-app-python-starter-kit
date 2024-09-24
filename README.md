@@ -2,7 +2,7 @@
 
 Template Project Repo for Web Based Python Application with Poetry, Docker, FastAPI and Pydantic.
 
-# CLI sCommands for Reference
+# Steps
 
 ### Install Poetry
 ```
